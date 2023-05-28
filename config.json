@@ -1,4 +1,4 @@
 {
-    "token": "NzgyMjU4NzQyNDM0OTg4MDMy.GkGowk.HUoq_QBhNppCKJsY29z29A7VbDEyk_1EXd7Bhg",
-    "db": "mongodb+srv://primus:mr250205@gui.4xhluqk.mongodb.net/"
+    "token": "your discord token",
+    "db": "your database token"
 }
